@@ -1041,6 +1041,11 @@ h4 {
     }
 }
 
+.col-sm-12 {
+    padding-top: 15px;
+    padding-bottom: 24px;
+}
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
