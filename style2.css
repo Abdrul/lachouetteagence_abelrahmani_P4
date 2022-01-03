@@ -18,3 +18,30 @@ h1 {
     flex-direction: column;
     align-items: center;
 }
+
+
+#form_1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label, input {
+    display: block;
+}
+
+label {
+    text-align: center;
+}
+
+.input-right {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+}
