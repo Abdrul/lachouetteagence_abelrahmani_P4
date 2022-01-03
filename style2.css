@@ -45,3 +45,8 @@ label {
 textarea {
     width: 100%;
 }
+
+.text-black {
+    color: #000;
+    font-size: 16px;
+}
